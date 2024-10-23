@@ -1,6 +1,8 @@
 # OOP4-INHERITANCE
 
 #KODE UNTUK MAHASISWA
+
+
 public class mahasiswa extends person {
     int nim;
     String jurusan;
